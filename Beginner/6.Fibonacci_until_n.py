@@ -17,4 +17,4 @@ def fibonacci(n):
 if __name__ == '__main__':
     n = 10
     for i in range(n):
-        print(f"Fibonacci Series until {n}th term: {fsibonacci(i)}")
+        print(f"Fibonacci Series until {n}th term: {fibonacci(i)}")
